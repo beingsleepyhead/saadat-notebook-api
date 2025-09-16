@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
+  "versionCode": 1,
   "versionName": "2.4.9",
   "downloadUrl": "https://www.dropbox.com/scl/fi/lw7ymv9ufxcb14pdey6mu/app-release.apk?rlkey=auobt9kneiv4dafqink45s6yf&st=ijrkwu7b&dl=1",
-  "whatsNew": "• Bug fixes\n• Performance improvements\n• Video player enhancements\n• Test 01"
+  "whatsNew": "• Improved the design of the in-app update dialog.\n• The dialog now fully supports your device's light and dark theme.\n• General performance and stability improvements."
 }
