@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "2.5.2",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/0qwhe1zrhhi2rlvw40uw6/notebook-v2.5.2.apk?rlkey=jzds3gud2y7057ac3qd258u0p&st=tv7z90bt&dl=1",
-  "whatsNew": "1. New secure user login using email and password.\n2. Reset password option.\n3. Persistence bookmark for all devices under the same account. \n4. General performance and stability improvements!"
+    "versionCode": 20504,
+    "versionName": "2.5.4",
+    "downloadUrl": "https://raw.githubusercontent.com/saadat-notebook/app/main/downloads/app-release.apk",
+    "whatsNew": "- Fixed a bug in the swipe-to-refresh feature.\r\n- Improved session persistence on app close.\r\n- Added ability to save passwords to Google Password Manager."
 }
